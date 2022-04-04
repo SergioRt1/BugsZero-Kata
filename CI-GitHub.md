@@ -69,11 +69,10 @@ acá está la [documentación](https://docs.github.com/es/actions).
   mensaje acá está
   la [documentación](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook)
   para crear el _Incoming Webhook_.
-  
-  ![](img/webhook.png)  
-  
-  Una vez creado tendremos la URL la cual debemos agregar como secret en el proyecto
-  de GitHub.
+
+  ![](img/webhook.png)
+
+  Una vez creado tendremos la URL la cual debemos agregar como secret en el proyecto de GitHub.
 
   ![](img/secret.png)
 
